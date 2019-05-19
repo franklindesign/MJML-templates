@@ -1,0 +1,11 @@
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/udemy-logo.png" width="158px"></mj-image>
+  </mj-column>
+  <mj-column padding-top="20px">
+    <mj-text css-class="user-links-light-bg">
+      <a href="#">View Courses</a> |
+      <a href="#">Wishlist</a>
+    </mj-text>
+  </mj-column>
+</mj-section>

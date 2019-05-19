@@ -1,0 +1,12 @@
+<mj-section background-color="#183745" padding="0">
+  <mj-column width="100%" padding-bottom="40px" padding-top="40px">
+    <mj-text align="center" color="#fff" font-size="30px" font-weight="600">
+      The very best in every topic
+    </mj-text>
+    <mj-text color="#fff" align="center" font-weight="600" font-size="16px" line-height="24px">Explore the variety of courses students like you love. Ends May 20, 11:59pm PDT.</mj-text>
+    <mj-button background-color="#E94848" height="45px" font-size="16px"> Get The Best </mj-button>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-image src="./assets/be-able-hero.jpg" padding="0"></mj-image>
+  </mj-column>
+</mj-section>

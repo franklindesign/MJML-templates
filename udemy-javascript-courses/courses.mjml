@@ -1,0 +1,92 @@
+<mj-section background-color="#EAE9E2" padding="20px">
+  <mj-group background-color="#EAE9E2">
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/advanced-javascript-concepts.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        Advanced Javascript Concepts
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/complete-react-dev-course.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        The Complete React Developer Course (w/ Hooks and Redux)
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#EAE9E2" padding="20px">
+  <mj-group background-color="#EAE9E2">
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/full-stack-react-with-graphql-apollo-boost.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        Full-Stack React with GraphQL and Apollo Boost
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+
+
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/reactjs-web-dev-essentials.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        React JS Web Development - The Essentials Bootcamp
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#EAE9E2" padding="20px">
+  <mj-group background-color="#EAE9E2">
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/react-native-the-practical-guide.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        React Native - The Practical Guide
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/css-flexbox-in-depth.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        CSS Flexbox in Depth
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#EAE9E2" padding="20px">
+  <mj-group background-color="#EAE9E2">
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/es6-javascript.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        ES6 Javascript: The Complete Developer's Guide
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/complete-nodejs-course.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        The Complete Node.js Developer Course (3rd Edition)
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#EAE9E2" padding="20px">
+  <mj-group background-color="#EAE9E2">
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/advanced-web-dev-bootcamp.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        The Advanced Web Developer Bootcamp
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+    <mj-column background-color="#fff" css-class="course" padding="5px 5px 20px 5px">
+      <mj-image src="./assets/react-js-redux-bootcamp.jpg" padding="0"></mj-image>
+      <mj-text height="80px" line-height="18px" align="center" padding="5px">
+        React JS and Redux Bootcamp - Master React Web Development
+      </mj-text>
+      <mj-button href="#" width="100%" background-color="#E94848" padding="0">Enroll</mj-button>
+    </mj-column>
+  </mj-group>
+</mj-section>

@@ -1,0 +1,42 @@
+<mj-section background-color="#183745">
+  <mj-column width="100%">
+    <mj-text color="#fff" align="center" font-weight="900" text-transform="uppercase">
+      <a href="#">Unsubscribe</a> | <a href="#"> Support</a> | <a href="#">View Online</a>
+    </mj-text>
+    <mj-text color="#fff" align="center">Udemy.com 600 Harrison Street, 3rd Floor San Francisco, CA 94107 USA</mj-text>
+    <mj-text color="#fff" align="center"><a href="#">Careers at Udemy</a> | <a href="#">Get Udemy for Business</a> | <a href="#">Become an Instructor</a></mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#183745">
+  <mj-column width="100%">
+    <mj-text color="#ffffff" padding-bottom="10px" align="center"><b> Download our apps for Offline Coursetaking</b></mj-text>
+  </mj-column>
+  <mj-group>
+    <mj-column width="50%">
+      <mj-image href="#" align="right" src="./assets/apple-icon.png" width="30px"></mj-image>
+    </mj-column>
+    <mj-column width="50%">
+      <mj-image href="#" align="left" src="./assets/android-icon.png" width="30px"></mj-image>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#183745">
+  <mj-column width="100%">
+    <mj-divider border-color="#fff" border-width="1px"></mj-divider>
+    <mj-text align="center" color="#fff">*Some exclusions apply. Coupon code expires 2019-05-21 07:00 AM GMT.</mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text align="center" text-transform="uppercase" color="#fff"><b>Connect with us</b> </mj-text>
+  </mj-column>
+  <mj-group width="300px">
+    <mj-column>
+      <mj-image src="./assets/fb-icon.png" href="#" width="30px"></mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-image src="./assets/twitter-icon.png" href="#" width="30px"></mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-image src="./assets/youtube-icon.png" href="#" width="30px"></mj-image>
+    </mj-column>
+  </mj-group>
+</mj-section>
