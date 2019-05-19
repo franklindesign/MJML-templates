@@ -1,0 +1,25 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Futura, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      a {
+        color: #000;
+      }
+
+      .footer-text p {
+        font-size: 10px;
+        color: gray;
+        line-height: 16px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fff" width="100%">
+    <mj-include path="./header.mjml" />
+    <mj-include path="./context.mjml" />
+    <mj-include path="./navbar-bottom.mjml" />
+    <mj-include path="./disclaimer.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>

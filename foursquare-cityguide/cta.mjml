@@ -1,0 +1,14 @@
+<mj-section background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-text align="center" font-size="14px" line-height="20px">Don't have the Foursquare City Guide app? Get it for your phone:
+    </mj-text>
+  </mj-column>
+  <mj-group>
+    <mj-column>
+      <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/65cb0546-2ac0-4c7c-ac83-7fdf522fd9c3.png" width="150px" padding="10px" href="#" alt="Download on the App Store"></mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/b9b3ac6c-fa9b-43c4-905a-5356cadd0a9e.png" width="150px" padding="10px" href="#" alt="Get it on Google Play"></mj-image>
+    </mj-column>
+  </mj-group>
+</mj-section>

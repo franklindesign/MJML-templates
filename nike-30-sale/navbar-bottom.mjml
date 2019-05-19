@@ -1,0 +1,19 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-text align="center" font-size="16px" font-weight="900">NIKE.COM</mj-text>
+    <mj-navbar>
+      <mj-navbar-link href="#" css-class="navbar">
+        <p>Men</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="navbar">
+        <p>Women</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="navbar">
+        <p>Boys</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="navbar">
+        <p>Girls</p>
+      </mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>

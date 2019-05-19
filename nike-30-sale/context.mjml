@@ -1,0 +1,18 @@
+<mj-hero mode="fixed-height" background-width="600px" background-height="469px" background-color="#B1DFE3" padding="100px 0px">
+
+  <mj-image src="./assets/nike_logo_200.png" width="200px" padding-bottom="40px"></mj-image>
+
+  <mj-text padding="0" color="#000" align="center" font-size="72px" line-height="60px" font-weight="900">
+    $30 OFF
+  </mj-text>
+  <mj-text padding="0" color="#000" align="center" font-weight="900" font-size="72px" line-height="60px"> STARTS NOW</mj-text>
+
+  <mj-text align="center" color="#000" line-height="28px" font-size="18px" padding-top="20px">Save $30 when you spend $150+ on your favorite jackets, tops, shorts, and shoes.</mj-text>
+  <mj-text align="center" color="#000" line-height="28px" font-size="18px" padding-top="20px">Use code <b>SAVE30</b> at checkout.</mj-text>
+
+  <mj-button href="https://mjml.io/" align="center" background-color="#000" height="50px" width="200px">
+    <b>SHOP NOW</b>
+  </mj-button>
+
+  <mj-text align="center" color="#000" line-height="20px" font-size="18px" padding-top="20px">Valid at Nike.com and select Nike stores. <br></br>Ends 5/12, 11:59 pm ET. <br></br>Exclusions apply. See details.*</mj-text>
+</mj-hero>

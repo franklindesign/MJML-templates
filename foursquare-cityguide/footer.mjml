@@ -1,0 +1,31 @@
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-divider border-width="1px" border-color="#ccc" padding="0"></mj-divider>
+    <mj-text line-height="16px" font-size="10px" align="center" padding-left="40px" padding-right="40px" padding-top="10px">Never miss out on exciting news, product updates, and special announcements.
+      <a href="#">Add us to your address book</a> so your emails don't get stuck in inbox limbo.</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-social icon-size="30px" mode="horizontal" border-radius="25px">
+      <mj-social-element name="facebook" href="#" padding="10px" alt="Like us on Facebook">
+
+      </mj-social-element>
+      <mj-social-element name="twitter" href="#" padding="10px" alt="Follow us on Twitter">
+
+      </mj-social-element>
+      <mj-social-element name="instagram" href="#" padding="10px" alt="Follow us on Instagram">
+
+      </mj-social-element>
+      <mj-social-element name="pinterest" href="#" padding="10px" alt="">
+
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="0">
+  <mj-column>
+    <mj-text font-size="10px" line-height="16px" align="center">This message was sent to <a href="#">test@test.com</a>. Please remember you can always go to your <a href="#">User Settings</a> page to adjust your account and contact info, privacy controls, email preferences and options linking to Twitter and Facebook. To opt out of these emails, <a href="#">click here</a>. Foursquare Labs, Inc., 50 W 23rd St, NY, NY 10010 - <a href="http://www.foursquare.com">www.foursquare.com</a>
+    </mj-text>
+  </mj-column>
+</mj-section>

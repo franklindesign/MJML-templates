@@ -1,0 +1,8 @@
+<mj-section>
+  <mj-column>
+    <mj-divider border-color="#ccc" border-width="1px"></mj-divider>
+    <mj-text line-height="30px" color="gray" padding="20px">
+      Enter SAVE30 during checkout to apply your discount -- $30 off orders of $150 or more. Shipping charges are calculates after discount. Not transferable and not redeemable on Nike.com and its affiliate pages in the Unites States. Not Valid on Swoosh.com. Discount isn't valid on select products, including Nike By You, give back, launce, gift cards, and Apple products. Redeemable in select Nike Stores, excluding Nike Factory Stores, Nike Clearance Stores, NikeLab, and Nike Company Stores. Show your Nike App inbox message to a store associate to redeem offer. Other exclusions may apply. Can be used in combination with free shipping promo codes only. Offer expires and the code must be redeemed by May 12, 2019, at 11:59pm ET. Void where prohibited. Additional restrictions may apply. Nike reserves the right to cancel or modify this offer at any time. Apple is a trademark of Apple, Inc.
+    </mj-text>
+  </mj-column>
+</mj-section>

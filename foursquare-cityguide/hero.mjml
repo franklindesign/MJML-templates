@@ -1,0 +1,14 @@
+<mj-hero mode="fixed-height" background-width="600px" background-height="800px" background-color="#003399" background-url="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/4d9839c9-c535-4fba-8332-2ecef9b57e43.jpg" padding-top="50px" padding-bottom="0px" background-position="top center">
+  <mj-text css-class="hero-text">
+    <p> What’s that place you’ve been meaning to try? </p>
+  </mj-text>
+  <mj-text align="center" css-class="tag-line">
+    <p>
+      Never forget the places you’ve been meaning to try.
+      Just save them — it's the easiest and most convenient way to keep track of your must-try spots.</p>
+  </mj-text>
+  <mj-button href="#" color="#0038a2" background-color="#fff" border-radius="5px">
+    Save places now
+  </mj-button>
+  <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/a930049d-e059-497d-b45d-3db6ddd923f3.png" alt="foursquare phone screen / save feature" align="center" padding-top="40px" width="0" padding-bottom="0px" />
+</mj-hero>

@@ -1,0 +1,9 @@
+<mj-section>
+  <mj-column>
+    <mj-divider border-width="2px" border-color="#ccc" padding="0"></mj-divider>
+    <mj-text align="center" font-size="24px" color="#000" font-weight="900" padding-top="25px">
+      Free Shipping
+    </mj-text>
+    <mj-text align="center" font-size="16px" line-height="24px"> Get free shipping as a NikePlus Member. <a href="#">Learn More</a> </mj-text>
+  </mj-column>
+</mj-section>

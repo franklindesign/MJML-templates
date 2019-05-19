@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-title>Foursquare template</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      a {
+        color: #000000;
+      }
+
+      .hero-text p {
+        padding: 10px;
+        color: #fff;
+        font-size: 48px;
+        line-height: 60px;
+        font-weight: 100;
+        text-align: center;
+      }
+
+      .tag-line p {
+        color: #fff;
+        line-height: 25px;
+        font-size: 16px;
+        padding-left: 50px;
+        padding-right: 50px;
+      }
+
+      @media screen and (max-width: 480px) {
+        .hero-text p {
+          padding: 10px;
+          font-size: 30px;
+          line-height: 36px;
+          font-weight: 100;
+          text-align: center;
+        }
+
+        .tag-line p {
+          color: #fff;
+          line-height: 25px;
+          font-size: 16px;
+          padding-left: 10px;
+          padding-right: 10px;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#EEEFF0">
+    <mj-include path="./header.mjml" />
+    <mj-include path="./hero.mjml" />
+    <mj-include path="./cta.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>

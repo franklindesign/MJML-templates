@@ -1,0 +1,32 @@
+<mj-section background-color="#ffffff">
+  <mj-column width="100%">
+    <mj-navbar>
+      <mj-navbar-link href="#" css-class="footer-text">
+        <p>Web Version</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="footer-text">
+        <p>Privacy Policy</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="footer-text">
+        <p>Get Help</p>
+      </mj-navbar-link>
+      <mj-navbar-link href="#" css-class="footer-text">
+        <p>Unsubscribe</p>
+      </mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+  <mj-column width="100%" padding-top="0">
+    <mj-text padding="0" align="center" css-class="footer-text">
+      <p>Get free shipping as a NikePlus Member. <a href="#"> Learn More.</p> </a>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text padding="0" align="center" css-class="footer-text">
+      <p>© 2019 Nike, Inc. All Rights Reserved</p>
+    </mj-text>
+    <mj-text padding="0" align="center" css-class="footer-text">
+      <p>One Bowerman Drive, Beaverton, Oregon 97005</p>
+    </mj-text>
+  </mj-column>
+
+</mj-section>
