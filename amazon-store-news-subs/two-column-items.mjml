@@ -1,0 +1,61 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#FAFAFF">
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/a2670f2e-0efb-49b4-b4c3-287817119ee5.jpg" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="24px" color="#000">Save 31%*</mj-text>
+        <mj-text align="left" line-height="20px" color="#000">Pawstruck selects 15 to 20 of the best meat-based dog treats and chews every month. 3 options available. (*first box only)</mj-text>
+        <mj-button background-color="#F1C666" css-class="button-link" href="#">See deal</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFAFF">
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/36d71793-a478-4f50-b872-2e66d17257fa.jpg" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="24px" color="#000">Save 30%*</mj-text>
+        <mj-text align="left" line-height="20px" color="#000">FetchBox delivers a monthly a-dog-able box of full-sized products including grooming solutions, treats, toys, & more. (*first box only)</mj-text>
+        <mj-button background-color="#F1C666" css-class="button-link" href="#">See deal</mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#FAFAFF">
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/88ac07aa-327d-4106-954b-d7077028f520.jpg" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="24px" color="#000">Save 15%*</mj-text>
+        <mj-text align="left" line-height="20px" color="#000">Each themed KitNipBox includes 5 toys, treats & other goodies. Options for multiple cats & dietary restrictions. (*first box only)</mj-text>
+        <mj-button background-color="#F1C666" css-class="button-link" href="#">See deal</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFAFF">
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/7a5b766c-78e7-4004-b840-61ea48048734.jpg" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="24px" color="#000">Save 30%*</mj-text>
+        <mj-text align="left" line-height="20px" color="#000">Please your BFF with PupJoy's bounty of tail-wagging delights. Options for mutliple dogs & power chewers. (*first box only)</mj-text>
+        <mj-button background-color="#F1C666" css-class="button-link" href="#">See deal</mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#FAFAFF">
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/f70b70c9-3f38-4517-a80b-0ecaa67d8b87.jpg" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="24px" color="#000">Save 31%*</mj-text>
+        <mj-text align="left" line-height="20px" color="#000">Dapper Dog Box provides a monthly mix of toys, treats & accessories for your dog. Options for small or large dogs. (*first box only)</mj-text>
+        <mj-button background-color="#F1C666" css-class="button-link" href="#">See deal</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/f6fa85db-58f4-4e75-a983-241c173b9154.png" href="#" padding="0" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

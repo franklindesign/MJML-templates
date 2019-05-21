@@ -1,0 +1,14 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-text css-class="top-link" align="left" padding="10px 10px 20px 10px"> <a href="#">FREE Shipping & up to 30% off your first box</a> </mj-text>
+    <mj-divider border-color="#FD9827" padding="0"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#fff" padding="0">
+  <mj-column width="25%">
+    <mj-image src="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/8ab96560-7783-4409-b057-89b266e72b4e.png" width="110px" align="center" padding="10px"></mj-image>
+  </mj-column>
+  <mj-column width="75%">
+    <mj-text padding="20px" css-class="nav-link" align="center"> <a href="#">Your Amazon</a> | <a href="#">Today's Deals</a> | <a href="#">Subscriptions</a> </mj-text>
+  </mj-column>
+</mj-section>

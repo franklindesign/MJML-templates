@@ -1,0 +1,11 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-text color="#979797" font-size="10px" line-height="14px">We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out <a href="#" css-class="footer-link">here</a>.
+      <br></br>
+      Please note that product prices and availability are subject to change. Prices and availability were accurate at the time this newsletter was sent; however, they may differ from those you see when you visit Amazon.com.
+      <br></br>
+      © 2019 Amazon.com, Inc. or its affiliates. All rights reserved. Amazon, Amazon.com, the Amazon.com logo, and 1-Click are registered trademarks of Amazon.com, Inc. or its affiliates. Amazon.com, 410 Terry Avenue N., Seattle, WA 98109-5210. Reference: 410355660
+      <br></br>
+      Please note that this message was sent to the following e-mail address: user@email.com</mj-text>
+  </mj-column>
+</mj-section>

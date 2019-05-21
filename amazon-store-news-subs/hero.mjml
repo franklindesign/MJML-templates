@@ -1,0 +1,14 @@
+<mjml>
+  <mj-body>
+    <mj-hero mode="fluid-height" background-url="https://gallery.mailchimp.com/a49c725a5ea08d2e78a10b7f7/images/e9311bed-1b1c-4998-af77-6a6cb7cd4135.jpg" background-color="#2a3448" padding="100px 0px">
+      <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="45px" line-height="45px" font-weight="900"> Up to 30% off </mj-text>
+      <mj-text align="center" color="#ffffff">Top pets subscription boxes for dogs and cats</mj-text>
+      <mj-button href="#" align="center" css-class="hero-button" background-color="#000"> Get the deals </mj-button>
+    </mj-hero>
+    <mj-section padding-top="10px">
+      <mj-column width="100%">
+        <mj-text padding="10px" line-height="24px" align="left" color="#000" font-size="16px">You can now find your favorite Pet-friendly Subscription Boxes on Amazon. Whether you're looking for a box of monthly treats and gear for your favorite dog or cat there's a box for you. Discover our monthly deals and save on your first box.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

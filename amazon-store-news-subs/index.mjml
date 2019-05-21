@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-attributes> </mj-attributes>
+    <mj-style>
+      .top-link a {
+        color: #979797 !important;
+      }
+
+      .nav-link a {
+        color: #000 !important;
+      }
+
+      a {
+        color: #979797 !important;
+      }
+
+      .button-link a {
+        color: #000 !important;
+      }
+
+      .hero-button a {
+        color: #fff !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fff" width="100%">
+    <mj-include path="./header.mjml" />
+    <mj-include path="./hero.mjml" />
+    <mj-include path="./two-column-items.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>
