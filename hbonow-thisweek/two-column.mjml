@@ -1,0 +1,49 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper padding-bottom="25px">
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="./assets/whatsnext.jpg" padding="10px" fluid-on-mobile="true"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="subtitle" padding-bottom="0"> SEE WHAT’S NEXT </mj-text>
+          <mj-text line-height="16px">Get a first look at everything coming soon on HBO including Big Little Lies, Succession, Righteous Gemstones, Watchmen and so much more.</mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">COMING SOON</a> </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="./assets/the-last-watch-doc.jpg" fluid-on-mobile="true" padding="10px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="subtitle" padding-bottom="0"> NEW DOCUMENTARY </mj-text>
+          <mj-text font-size="28px" padding-top="5px" padding-bottom="0">Game of Thrones: The Last Watch </mj-text>
+          <mj-text line-height="16px" padding-bottom="0">Get a behind-the-scenes look at the making of a worldwide phenomenon. Premieres May 26 at 9 pm.</mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">STREAM TRAILER</a> </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="./assets/chernobyl.jpg" fluid-on-mobile="true" padding="10px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="subtitle" padding-bottom="0"> NEW EPISODE </mj-text>
+          <mj-text font-size="28px" padding-top="5px" padding-bottom="0">Chernobyl </mj-text>
+          <mj-text line-height="16px" padding-bottom="0">A gripping look at the 1986 nuclear accident — one of the worst man-made catastrophes in history — and the sacrifices made to save Europe from disaster. <b> New episodes on Monday at 9 pm.</b></mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">STREAM NOW</a> </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="./assets/halloween.jpg" fluid-on-mobile="true" padding="10px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="subtitle" padding-bottom="0"> NEW MOVIE </mj-text>
+          <mj-text font-size="28px" padding-top="5px" padding-bottom="0">Halloween </mj-text>
+          <mj-text line-height="16px" padding-bottom="0">The serial-killing Michael Myers is back in this sequel to the 1978 classic — but this time, Laurie Strode is ready for him. <b> Premieres Saturday at 8 pm.</b></mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">STREAM TRAILER</a> </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

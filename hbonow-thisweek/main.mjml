@@ -1,0 +1,14 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="0">
+      <mj-column background-color="#fff" padding="0 0 50px 0">
+        <mj-image src="./assets/game-of-thrones-the-last-watch.jpg" padding="0"></mj-image>
+        <mj-text css-class="display-text">
+          <p>WHAT TO WATCH</p>
+        </mj-text>
+        <mj-text align="center" font-size="20px" line-height="28px">From captivating docs to chilling dramas, there’s something for everyone.</mj-text>
+        <mj-button color="#fff" background-color="#0dbcee" border-radius="0" font-weight="500" font-family="Roboto, helvetica, arial, sans-serif">STREAM NOW</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,29 @@
+<mjml>
+  <mj-body>
+    <mj-wrapper padding-bottom="25px">
+      <mj-section background-color="#fff">
+        <mj-column width="100%">
+          <mj-text mj-class="section-display">New Series Coming Soon</mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-image src="./assets/euphoria.jpg"></mj-image>
+          <mj-text>Euphoria</mj-text>
+          <mj-text>Premieres June 16</mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">Stream Trailer</a></mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-image src="./assets/the-righteous-gemstones.jpg"></mj-image>
+          <mj-text>The Righteous Gemstones</mj-text>
+          <mj-text>Premieres in August</mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">Stream Teaser</a></mj-text>
+        </mj-column>
+        <mj-column width="33%">
+          <mj-image src="./assets/watchmen.jpg"></mj-image>
+          <mj-text>Euphoria</mj-text>
+          <mj-text>Premieres this Fall</mj-text>
+          <mj-text css-class="blue-link-uppercase"><a href="#">Stream Teaser</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

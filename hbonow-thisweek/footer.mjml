@@ -1,0 +1,6 @@
+<mj-section background-color="#404040" padding="0">
+  <mj-column padding="15px 10px 0px 10px">
+    <mj-text color="#afafaf" align="center" font-size="12px" line-height="16px" font-family="Roboto, helvetica, arial, sans-serif"> Opt Out | Privacy Policy <br></br> 30 Hudson Yards, New York, NY 10001 <br></br> HBO NOW® is only accessible in the U.S. and certain U.S. territories. Certain restrictions apply. © 2019 Home Box Office, Inc. All Rights Reserved. HBO®, HBO NOW®, and
+      related channels and service marks are the property of Home Box Office, Inc. All other devices, titles and related trademarks are the property of their respective owners. </mj-text>
+  </mj-column>
+</mj-section>

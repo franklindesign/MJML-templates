@@ -1,0 +1,5 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-image src="./assets/hbonow-logo.png" fluid-on-mobile="false" width="115px"></mj-image>
+  </mj-column>
+</mj-section>

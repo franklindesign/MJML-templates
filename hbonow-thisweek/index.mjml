@@ -1,0 +1,47 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="5px 10px" color="#000" />
+      <mj-image padding="10px" fluid-on-mobile="true" />
+      <mj-class name="section-display" font-size="36px" align="center" padding="25px" />
+    </mj-attributes>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:500,700&display=swap" />
+    <mj-style>
+      .blue-link-uppercase a {
+        font-weight: 700;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: #24BCEC;
+      }
+
+      .blue-button-light {
+        background-color: #0dbcee;
+        color: #fff;
+        padding: 25px;
+      }
+
+      .display-text p {
+        font-size:
+          50px;
+        color: #212121;
+        text-transform: uppercase;
+        font-family: 'Roboto', Helvetica, arial, sans-serif;
+        font-weight: 700;
+        text-align: center;
+      }
+
+      .subtitle {
+        font-weight: 700;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#eee">
+    <mj-include path="./header.mjml" />
+    <mj-include path="./main.mjml" />
+    <mj-include path="./two-column.mjml" />
+    <mj-include path="./three-col-series-coming-soon.mjml" />
+    <mj-include path="./three-col-movies-coming-soon.mjml" />
+    <mj-include path="./social.mjml" />
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>
